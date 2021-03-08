@@ -8,7 +8,7 @@ This is example to show different parts of Git repository.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos and Git training.
 
 
 ## Deployment
