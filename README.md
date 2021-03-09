@@ -14,4 +14,8 @@ Sample website with plenty of files for demos and Git training.
 ## Deployment
 Test project.
 
-### How To Contribute
+## How To Contribute
+
+
+### Copyright
+2014 Git.Training.
